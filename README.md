@@ -1,4 +1,4 @@
-# EDA_and_PCA_3D
+# Analyse exploratoire et ACP
 
 ## Présentation du projet
 
