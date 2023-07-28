@@ -13,7 +13,7 @@ Le travail sur les données est regoupé en deux parties:
 
 L'application sera présentée succintement dans la conclusion de la partie 2.
 
-### Notebook 1: 🛠 Nettoyage des donnéés 
+### Notebook 1: 🛠 nettoyage des donnéés 
 - Représentation graphique des valeurs nulles
 - ⌛️Variables temporelles
 - Suppression des colonnes identiques
@@ -24,7 +24,7 @@ L'application sera présentée succintement dans la conclusion de la partie 2.
     - Imputation par la méthode du plus proche voisin KNN
     - Imputation par la méthode Iterative-Imputer 
 
-### Notebook 2 : Analyse exploratoire des données
+### Notebook 2 : analyse exploratoire des données
 
 
 - Analyse en Composantes principales (ACP)
@@ -36,8 +36,9 @@ L'application sera présentée succintement dans la conclusion de la partie 2.
 - ANOVA
   
 ### Conclusion
-Ce projet vise à montrer comment utiliser les fonctions et méthodes de base propre à python afin de réaliser une étude exploratioire complète.   
-Ce projet est réalisé dans le cadre de la formation data-scientist par CentraleSupélec & Openclassrooms (Certificat niveau bac+5) .
+Ce projet vise à montrer comment utiliser les fonctions et méthodes de base propre à python pour réaliser des clusters, et faire une étude exploratioire complète.   
+
+Ce projet fait partie de la formation data-scientist par CentraleSupélec & Openclassrooms (Certificat niveau bac+5) .
 
 
 
