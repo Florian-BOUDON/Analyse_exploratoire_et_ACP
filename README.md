@@ -38,6 +38,7 @@ L'application sera présentée succintement dans la conclusion de la partie 2.
 ### Conclusion
 Ce projet vise à montrer comment utiliser les fonctions et méthodes de base propre à python pour réaliser des clusters, et faire une étude exploratioire complète.   
 
+***********
 Ce projet fait partie de la formation data-scientist par CentraleSupélec & Openclassrooms (Certificat niveau bac+5) .
 
 
